@@ -1,0 +1,7 @@
+C:\Users\tec21\OneDrive\Documentos\GitHub\EscrituraByte\EscrituraByte\EscrituraByte\bin\Debug\EscrituraByte.exe.config
+C:\Users\tec21\OneDrive\Documentos\GitHub\EscrituraByte\EscrituraByte\EscrituraByte\bin\Debug\EscrituraByte.exe
+C:\Users\tec21\OneDrive\Documentos\GitHub\EscrituraByte\EscrituraByte\EscrituraByte\bin\Debug\EscrituraByte.pdb
+C:\Users\tec21\OneDrive\Documentos\GitHub\EscrituraByte\EscrituraByte\EscrituraByte\obj\Debug\EscrituraByte.csproj.AssemblyReference.cache
+C:\Users\tec21\OneDrive\Documentos\GitHub\EscrituraByte\EscrituraByte\EscrituraByte\obj\Debug\EscrituraByte.csproj.CoreCompileInputs.cache
+C:\Users\tec21\OneDrive\Documentos\GitHub\EscrituraByte\EscrituraByte\EscrituraByte\obj\Debug\EscrituraByte.exe
+C:\Users\tec21\OneDrive\Documentos\GitHub\EscrituraByte\EscrituraByte\EscrituraByte\obj\Debug\EscrituraByte.pdb
